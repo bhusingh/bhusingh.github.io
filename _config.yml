@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Cristian Castellari
+title: Bhupendra Singh
 description: "Informatico, padre e marito. Nel tempo libero mi dedico alla famiglia, agli amici e ai videogiochi"
-keywords: cristian, castellari, blog, jekyll, gh-pages, kace, github, wordpress
+keywords: Bhupendra, Singh, blog, Amazon, Adobe, github, wordpress
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://cristiancastellari.it  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://bhusingh.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 #
@@ -36,17 +36,13 @@ lang: it_IT
 permalink: /blog/:categories/:title/
 
 social:
-  name: Cristian Castellari
+  name: Bhupendra Singh
   links:
-    - https://twitter.com/BloggerStanco
-    - https://www.facebook.com/cristian.castellari
-    - https://www.linkedin.com/in/cristiancastellari/
-    - https://plus.google.com/u/0/+CristianCastellari
-    - https://github.com/Skyflash
+    - https://twitter.com/Ant_Shant
+    - https://www.facebook.com/bhupi.kushwaha
+    - https://www.linkedin.com/in/bhupps/
+    - https://github.com/bhusingh
 
-twitter:
-  card: summary
-  username: BloggerStanco
 
 webmaster_verifications:
   google: FByo2xcDR6RaUId2DdQjhAmq9YMjlEhVlL0OgK8KDzU
@@ -59,17 +55,15 @@ webmaster_verifications:
 ####################################
 #
 author:  # change following line to your infomation.
-  name: Cristian Castellari  # Be used at blog posts' author.
-  first_name: Cristian  # Be used at index page about me section.
-  last_name: Castellari  # Be used at index page about me section.
+  name: Bhupendra Singh  # Be used at blog posts' author.
+  first_name: Bhupendra  # Be used at index page about me section.
+  last_name: Singh  # Be used at index page about me section.
   avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
-  github_username: skyflash  # Leave blank if you don't have now
-  linkedin_id: cristiancastellari # Leave blank if you don't have now
-  facebook_username: cristian.castellari  # Leave blank if you don't have now
+  github_username: bhusingh  # Leave blank if you don't have now
+  linkedin_id: bhupps # Leave blank if you don't have now
+  facebook_username: bhupi.kushwaha  # Leave blank if you don't have now
   twitter: BloggerStanco
-  email: c.castellari@gmail.com  # Leave blank if you don't have now
-  cv: https://cv.cristiancastellari.it  # An online CV can be printed as PDF, leave blank if you don't have now
-
+  email: bhupi.biet@gmail.com  # Leave blank if you don't have now
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -82,7 +76,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: cristiancastellari-it
+  name: Bhupendra Singh
 
 # analytics
 ## google analytics
