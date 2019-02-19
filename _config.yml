@@ -58,11 +58,11 @@ author:  # change following line to your infomation.
   name: Bhupendra Singh  # Be used at blog posts' author.
   first_name: Bhupendra  # Be used at index page about me section.
   last_name: Singh  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
-  github_username: bhusingh  # Leave blank if you don't have now
+  avatar: /static/assets/img/landing/me.png  # upload your avatar at directory and edit it.
+  github_userna: bhusingh  # Leave blank if you don't have now
   linkedin_id: bhupps # Leave blank if you don't have now
   facebook_username: bhupi.kushwaha  # Leave blank if you don't have now
-  twitter: BloggerStanco
+  twitter: Ant_Shant
   email: bhupi.biet@gmail.com  # Leave blank if you don't have now
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
